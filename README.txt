@@ -1,0 +1,1 @@
+这是一个电影网站，使用redis和memcache作为缓存，使用celery异步框架。
